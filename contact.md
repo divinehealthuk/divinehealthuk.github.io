@@ -11,7 +11,7 @@ nav_order: 4
 
 <ul class="contact-meta">
   <li>Phone: <a href="tel:+447969472054">07969 472054</a></li>
-  <li>Email: <a href="mailto:kamila.divinehealth@gmail.com">kamila.divinehealth@gmail.com</a></li>
+  <li>Email: <a href="mailto:kamila@divinehealth.uk">kamila@divinehealth.uk</a></li>
   <li>Location: <strong>Based in Frome</strong> — offers both in-person and online consultations.</li>
 </ul>
 
