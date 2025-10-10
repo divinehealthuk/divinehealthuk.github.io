@@ -8,5 +8,9 @@ ehthumbs_vista.db
 .DS_Store
 ._*
 
-### Project files ###
-# *diff.*
+### Jekyll files ###
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
