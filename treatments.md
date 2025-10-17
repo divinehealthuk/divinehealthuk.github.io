@@ -5,72 +5,52 @@ permalink: /treatments.html
 nav_order: 3
 ---
 
-<h2>Treatments &amp; Services</h2>
+## Treatments & services
 
-<p class="intro">At Divine Health, each treatment and wellness programme is carefully designed to restore balance and enhance vitality. Blending principles of Traditional Chinese Medicine, acupuncture, and nutritional therapy with modern insights, Kamila offers a professional, evidence-informed approach to natural rejuvenation. Every session is tailored to your unique needs.</p>
+At Divine Health, each treatment and wellness programme is carefully designed to restore balance and enhance vitality. Blending principles of Traditional Chinese Medicine, acupuncture, and nutritional therapy with modern insights, Kamila offers a professional, evidence-informed approach to natural rejuvenation. Every session is tailored to your unique needs.
 
-<section class="section-panel">
-  <h3>Individual Treatments</h3>
+---
+<br>
 
-  <div class="treatment-list">
-    <div class="treatment-card">
-      <h4>Initial Consultation</h4>
-      <p class="meta">60 minutes — £60</p>
-      <p>A full health assessment including tongue and pulse diagnosis, a detailed history and a personalised treatment plan.</p>
-    </div>
+## Individual treatments
 
-    <div class="treatment-card">
-      <h4>Acupuncture</h4>
-      <p class="meta">45 minutes — £50</p>
-      <p>Gentle, targeted acupuncture tailored to balance energy, relieve stress, and promote natural healing.</p>
-    </div>
+### Initial consultation
+- 60 minutes — £60
+- A full health assessment including tongue and pulse diagnosis, a detailed history and a personalised treatment plan.
 
-    <div class="treatment-card">
-      <h4>Cupping Therapy</h4>
-      <p class="meta">20 minutes — £25</p>
-      <p>Improves circulation, releases muscle tension and assists detoxification through gentle suction therapy.</p>
-    </div>
+### Acupuncture
+- 45 minutes — £50
+- Gentle, targeted acupuncture tailored to balance energy, relieve stress, and promote natural healing.
 
-    <div class="treatment-card">
-      <h4>Moxibustion</h4>
-      <p class="meta">20 minutes — £30</p>
-      <p>Warming therapy using herbal moxa to stimulate energy flow and strengthen immunity.</p>
-    </div>
+### Cupping therapy
+- 20 minutes — £25
+- Improves circulation, releases muscle tension and assists detoxification through gentle suction therapy.
 
-    <div class="treatment-card">
-      <h4>Moxibustion (extended)</h4>
-      <p class="meta">40 minutes — £60</p>
-      <p>A deeper, more comprehensive moxibustion session to restore balance and vitality.</p>
-    </div>
+### Moxibustion
+- 20 minutes — £30
+- Warming therapy using herbal moxa to stimulate energy flow and strengthen immunity.
 
-    <div class="treatment-card">
-      <h4>Nutritional Consultation</h4>
-      <p class="meta">60 minutes — £80</p>
-      <p>A holistic session combining nutrition science and Traditional Chinese Medicine principles to support vitality, clarity, and balance.</p>
-    </div>
-  </div>
-</section>
+### Moxibustion (extended)
+- 40 minutes — £60
+- A deeper, more comprehensive moxibustion session to restore balance and vitality.
 
-<section class="section-panel">
-  <h3>Health Transformation Programmes (12 weeks)</h3>
+### Nutritional consultation
+- 60 minutes — £80
+- A holistic session combining nutrition science and Traditional Chinese Medicine principles to support vitality, clarity, and balance
 
-  <div class="program-grid">
-    <div class="program-card">
-      <h4>Essential</h4>
-      <p class="meta">12 weeks — £585</p>
-      <p>A tailored programme to give you the essential tools to begin your health journey. Includes one support call per month. Ideal if you are self-motivated and comfortable managing your plan with less contact.</p>
-    </div>
+---
+<br>
 
-    <div class="program-card">
-      <h4>Advanced</h4>
-      <p class="meta">12 weeks — £900</p>
-      <p>For those who want regular contact and accountability. Includes fortnightly support calls with personalised guidance to keep you on track.</p>
-    </div>
+## Health transformation programmes (12 weeks)
 
-    <div class="program-card">
-      <h4>Ultimate</h4>
-      <p class="meta">12 weeks — £1,575</p>
-      <p>The fully supported transformation: weekly calls and continuous motivation to help you reach your deepest health goals.</p>
-    </div>
-  </div>
-</section>
+### Essential
+- 12 weeks — £585
+- A tailored programme to give you the essential tools to begin your health journey. Includes one support call per month. Ideal if you are self-motivated and comfortable managing your plan with less contact.
+
+### Advanced
+- 12 weeks — £900
+- For those who want regular contact and accountability. Includes fortnightly support calls with personalised guidance to keep you on track.
+
+### Ultimate
+- 12 weeks — £1,575
+- The fully supported transformation: weekly calls and continuous motivation to help you reach your deepest health goals.
